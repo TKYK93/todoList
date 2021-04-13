@@ -1,1 +1,1 @@
-This is a todo-list-app built in React.
+This is a todo-list-app built with React.
